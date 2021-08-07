@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "146522225620",
+    "firebase_url": "https://multiplecard.firebaseio.com",
+    "project_id": "multiplecard",
+    "storage_bucket": "multiplecard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146522225620:android:5de8159a15de05424b7441",
+        "android_client_info": {
+          "package_name": "com.example.multiplecard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146522225620-cnajerhk690g9aecd96e7f98e5gba0vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multiplecard",
+            "certificate_hash": "ed3f23a7c6e13050d7d361038f5a5ebb67b93799"
+          }
+        },
+        {
+          "client_id": "146522225620-n7aq8qs1knrgtv77saoupmur6f1ltevp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Plk8WXWkgwB1YMf8XiZJnjxRV1BSvhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146522225620-n7aq8qs1knrgtv77saoupmur6f1ltevp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
